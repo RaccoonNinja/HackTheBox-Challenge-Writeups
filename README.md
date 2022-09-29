@@ -1,6 +1,6 @@
 # HackTheBox Challenge Writeups
 
-Original write-ups plus other notes by RaccoonNinja on HackTheBox challenges. Not all solved challenges are included.
+Original write-ups plus other notes by RaccoonNinja on HackTheBox challenges. Non-spoily hints as well as the solution is provided. Not all solved challenges are included.
 
 ## Declaration
 
