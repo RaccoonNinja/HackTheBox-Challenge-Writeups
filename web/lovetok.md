@@ -1,4 +1,4 @@
-This is supposed to be simple but I was distracted by red herrings.
+This is supposed to be simple but I was distracted by red herrings and it took some time.
 
 <details>
   <summary> Hint 1: </summary>
