@@ -10,7 +10,7 @@ I wasn't familiar with the technology at all. Most hints on the forum were crypt
 <details>
   <summary> Hint 2: </summary>
   
-  The content in the second page can help a lot.
+  The content you can access after bypassing the login can help a lot. Make sure you look at all files that may be important.
 </details>
 <details>
   <summary> <b>Solution:</b> </summary>
