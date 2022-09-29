@@ -1,3 +1,5 @@
+## Skills involved: PHP
+
 This is supposed to be simple but I was distracted by red herrings and it took some time.
 
 <details>
